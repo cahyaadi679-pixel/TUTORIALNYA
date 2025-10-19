@@ -5,8 +5,23 @@ Cocok untuk belajar dasar Python sambil nyanyi 😄
 
 ## 🚀 Langkah Menjalankan di Termux
 
-### 🥇 1. Instal Python
-Pertama, jalankan perintah berikut di Termux untuk menginstal Python:
+### COMMAND UNTUK MENJALANKAN KODENYA
+ini adalah command atau perintah agar bisa di jalankan di termux:
 
 ```bash
 pkg install python
+
+```
+
+``` bash
+nano terserah.py
+
+```
+
+```bash
+python terserah.py
+
+```
+### JIKA (pkg install python) TIDAK BISA DI TERMUX COBALAH DI TERMUX MOD!!!
+
+<h3><span style="color:#ff0000;">🚨 Tidak punya script lirik Python?</span> <span style="color:#00bfff;">Beli di sini!!:</span> <a href="https://lynk.id/yopandelrey" target="_blank">https://lynk.id/yopandelrey</a></h3>
