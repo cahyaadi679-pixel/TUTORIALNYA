@@ -14,12 +14,12 @@ pkg install python
 ```
 
 ``` bash
-nano terserah.py
+nano nama_lagu.py
 
 ```
 
 ```bash
-python terserah.py
+python nama_lagu.py
 
 ```
 ### JIKA (pkg install python) TIDAK BISA DI TERMUX COBALAH DI TERMUX MOD!!!
